@@ -1,0 +1,11 @@
+ - A DNS é como uma lista telefonica que traduz o IP para nomes de domínio e virce-versa.
+
+  - Seria muito mais complicado para pessoas decorarem sequências de números, então ela auxilia nessa interação.
+
+  - Quando digitamos um URL no navegador da Web do browser, o DNS conecta o URL ao endereço IP do servidor real. Chamado de resolução de nomes.
+
+  -  O DNS está preocupado com 4 componentes: 
+    * Rigistro de domínio   
+    * Servidores de nomes
+    * Registros DNS
+    * Serviços Baseados na WEB
