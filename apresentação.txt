@@ -5,4 +5,4 @@ bibliografia: https://hostbits.com.br/blog/como-funciona-o-registro-de-dominio/
 https://kinsta.com/pt/base-de-conhecimento/o-que-e-dns/
 registro.com
 https://www.hostgator.com.br/
-
+https://www.hostinger.com.br/registro-de-dominio?ppc_campaign=google_search_generic_domains&bidkw=dominio&lo=9100927&gclid=CjwKCAjwt7SWBhAnEiwAx8ZLaucYsJRjyneIZLZ8AmiZNx4ef-uguNgratybgFB9xJmmOUlLpPWfBhoCdOAQAvD_BwE
