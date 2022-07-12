@@ -1,0 +1,3 @@
+O DNS(Domain System Name) é um dispositivo que gerencia os nomes de serviço, ou seja, ele é responsável relacionar o endereço nominal com o endereço de ip. Então ele faz a tradução de números para nomes, bem similar aos saves de super nintendo e a lista telefonica. 
+Para que não se torne um caos a internet com varios ips com o mesmo endereço nominal, é preciso registrar o Dominio previamente atráves do "registro.com" ou empresas paralelas como a "https://www.hostgator.com.br/".
+Apenas para reforçar, não é porque alguem é dono de uma marca que ela é dono de um dominio.
